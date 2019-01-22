@@ -8,6 +8,7 @@ import com.thought.Rules.RomanRulesOne;
 import com.thought.Rules.Rules;
 import com.thought.Rules.RulesApplier;
 
+/*for the given string and apply all the rules*/
 public class ConvertToRomanValues implements Converter{
 	Converter c;
 	KeyTypes kt;

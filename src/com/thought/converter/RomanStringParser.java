@@ -1,7 +1,7 @@
 package com.thought.converter;
 
 
-
+/*Input to read the only the money related strings*/
 public class RomanStringParser implements Converter {
 
 	Converter c;

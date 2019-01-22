@@ -2,7 +2,7 @@ package com.thought.Rules;
 
 import java.util.ArrayList;
 
-/*iterator pattern*/
+/*iterator pattern this is to apply all the rules on the given string*/
 public class RulesApplier {
 public boolean apply(String resp){
 	boolean rulesFlag=false;

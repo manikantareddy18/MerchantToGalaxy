@@ -1,4 +1,5 @@
 package com.thought.converter;
+/*Class to add all the roman values*/
 public class Roman {
 	
 	public int value(char r) {

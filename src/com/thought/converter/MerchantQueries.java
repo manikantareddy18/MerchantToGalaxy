@@ -1,5 +1,5 @@
 package com.thought.converter;
-
+/*THis is to evaluate the merchant related all the queries for his transactions*/
 public class MerchantQueries implements Questions{
 	Converter c;
 	public void getValues(String str,KeyTypes kt) {

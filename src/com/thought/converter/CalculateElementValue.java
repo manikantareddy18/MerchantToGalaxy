@@ -1,5 +1,7 @@
 package com.thought.converter;
 
+
+/*To calculate the Element values and put it in elements Map*/
 public class CalculateElementValue implements Converter{
 Converter c;
 KeyTypes kt;

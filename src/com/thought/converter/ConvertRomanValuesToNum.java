@@ -1,5 +1,6 @@
 package com.thought.converter;
 
+/*Convert the given String to a number*/
 public class ConvertRomanValuesToNum implements Converter {
 
 	@Override

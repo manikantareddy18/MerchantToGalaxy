@@ -1,5 +1,6 @@
 package com.thought.converter;
 
+/*To place all the operation to a value Map*/
 public class AddValues implements Converter {
 	Roman r=new Roman();
 	KeyTypes kt;

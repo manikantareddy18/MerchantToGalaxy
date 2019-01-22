@@ -2,7 +2,7 @@ package com.thought.converter;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/*To maintain all the key value types */
 public class KeyTypes {
 	private Map<String,String> valuesMap=new HashMap<String, String>();
 	private Map<String,Double> elementMap=new HashMap<String, Double>();
